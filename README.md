@@ -99,7 +99,7 @@
 <img src="https://user-images.githubusercontent.com/71499139/166971642-a56289c1-38a3-4811-9bbb-923dd9bf32cc.png"/>
 </div>
 <div align=center>
-<img src="https://user-images.githubusercontent.com/71499139/166971642-a56289c1-38a3-4811-9bbb-923dd9bf32cc.png"/>
+<img src="https://user-images.githubusercontent.com/71499139/166972002-fbd500dc-552f-4b8a-97ef-ab15fbe85103.png"/>
 </div>
 <!-- BLOG-POST-LIST:END -->  
 
