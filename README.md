@@ -82,6 +82,8 @@
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+### Weibo rumour detection
+* Using deep learning models to detect a large number of false information on Internet social media can detect the authenticity of false information in the early stage of dissemination,And block the dissemination of false information, reduce the harm of false information to the society.
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
