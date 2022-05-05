@@ -95,6 +95,12 @@
  <img src="https://user-images.githubusercontent.com/71499139/166969246-dbf56a64-d436-45b1-8deb-035917d53b16.png"/>
 </div>
 * Complete the front-end and back-end development of the system. Realize the text and structure information of the microblog propagation path constructed by the crawler according to the input microblog ID. and judged by the model and visualize the analysis results.
+<div align=center>
+<img src="https://user-images.githubusercontent.com/71499139/166971642-a56289c1-38a3-4811-9bbb-923dd9bf32cc.png"/>
+</div>
+<div align=center>
+<img src="https://user-images.githubusercontent.com/71499139/166971642-a56289c1-38a3-4811-9bbb-923dd9bf32cc.png"/>
+</div>
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
