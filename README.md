@@ -90,10 +90,10 @@
 <img src="https://user-images.githubusercontent.com/71499139/166968881-6b283782-8ca0-4f0b-8d46-e345e0819e32.png"/>
  <img src="https://user-images.githubusercontent.com/71499139/166968653-2eb81b1a-c574-4b57-9a3e-a5d6dbfea492.png"/>
 </div>
-![pic2.a rumour with a lot comments](https://user-images.githubusercontent.com/71499139/166968881-6b283782-8ca0-4f0b-8d46-e345e0819e32.png)&nbsp;&nbsp;&nbsp;&nbsp;
-![pic1.Attention weights](https://user-images.githubusercontent.com/71499139/166968653-2eb81b1a-c574-4b57-9a3e-a5d6dbfea492.png)  
-&nbsp;&nbsp;&nbsp;&nbsp;![pic3.Why Models Think It's Fake News](https://user-images.githubusercontent.com/71499139/166969059-ceaf0e6c-7489-4cff-bc73-ac622dc14ad5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![pic4.Attention matrix](https://user-images.githubusercontent.com/71499139/166969246-dbf56a64-d436-45b1-8deb-035917d53b16.png)  
+<div align=center>
+<img src="https://user-images.githubusercontent.com/71499139/166969059-ceaf0e6c-7489-4cff-bc73-ac622dc14ad5.png"/>
+ <img src="https://user-images.githubusercontent.com/71499139/166969246-dbf56a64-d436-45b1-8deb-035917d53b16.png"/>
+</div>
 * Complete the front-end and back-end development of the system. Realize the text and structure information of the microblog propagation path constructed by the crawler according to the input microblog ID. and judged by the model and visualize the analysis results.
 <!-- BLOG-POST-LIST:END -->  
 
