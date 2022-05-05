@@ -88,6 +88,7 @@
 * Complete the model training, and deeply explore the self-attention mechanism to visualize the feasibility of the model.
 <div align=center>
 <img src="https://user-images.githubusercontent.com/71499139/166968881-6b283782-8ca0-4f0b-8d46-e345e0819e32.png"/>
+ <img src="https://user-images.githubusercontent.com/71499139/166968653-2eb81b1a-c574-4b57-9a3e-a5d6dbfea492.png"/>
 </div>
 ![pic2.a rumour with a lot comments](https://user-images.githubusercontent.com/71499139/166968881-6b283782-8ca0-4f0b-8d46-e345e0819e32.png)&nbsp;&nbsp;&nbsp;&nbsp;
 ![pic1.Attention weights](https://user-images.githubusercontent.com/71499139/166968653-2eb81b1a-c574-4b57-9a3e-a5d6dbfea492.png)  
