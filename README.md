@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am an undergraduate student of computer science🧑‍💻, school of Computer Science at Southeast University, Nanjing, China. I joined Liu Bo's lab in my sophomore year and started to do research.</div>  
+### <div align="center">I am an undergraduate student of computer science🧑‍💻, school of Computer Science and Engineering at Southeast University, Nanjing, China. I joined Liu Bo's lab in my sophomore year and started to do research.</div>  
   
 
 - 🔭 I’m currently working on [CS231n](https://github.com/yjb6/CS231n-2022)  
