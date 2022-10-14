@@ -6,7 +6,7 @@
 ### <div align="center">I am an undergraduate student of computer science🧑‍💻, school of Computer Science and Engineering at Southeast University, Nanjing, China. I joined Liu Bo's lab in my sophomore year and started to do research.</div>  
   
 
-- 🔭 I’m currently working on [GAMES101](https://github.com/yjb6/GAMES101)  
+- 🔭 I’m currently working in ByteDance.  
   
 
 - I am currently working on artificial intelligence, deep learning research, including natural language processing, video image processing, computer vision  
