@@ -3,13 +3,11 @@
 </div>  
   
 
-### <div align="center">I am an undergraduate student of computer science🧑‍💻, school of Computer Science and Engineering at Southeast University, Nanjing, China. I joined Liu Bo's lab in my sophomore year and started to do research.</div>  
+### <div align="center">I am a senior student majoring in Computer Science at Southeast University. I am planning to pursue a graduate degree at the School of Electronic and Computer Engineering, Peking University in September. My research interests mainly focus on 3D reconstruction and rendering</div>  
+  
   
 
-- 🔭 I’m currently working in ByteDance.  
-  
-
-- I am currently working on artificial intelligence, deep learning research, including natural language processing, video image processing, computer vision  
+- My primary research interests lie in Multi-View Stereo, Multi-Plane Images, and Nerf. I welcome any inquiries regarding potential collaborations or discussions on research in these areas. 
   
 
 <br/>  
